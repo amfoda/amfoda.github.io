@@ -108,7 +108,7 @@ social:
     link: https://orcid.org/0000-0002-4904-2661
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://inspirehep.net/author/profile/A.M.Foda.1
+    link: https://inspirehep.net/authors/1677623
   - icon: github
     icon_pack: fab
     link: https://github.com/amfoda
