@@ -126,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-A postdoctoral researcher of experimental hadron spectroscopy at the GSI Helmholtz center for heavy ion research.
+A postdoctoral researcher of experimental hadron spectroscopy at the GSI Helmholtz center for heavy ion research
 {style="text-align: justify;"}
