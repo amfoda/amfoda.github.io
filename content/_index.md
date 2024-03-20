@@ -88,7 +88,7 @@ sections:
 
 
               * Mentoring Students
-              * Apply corrections to the total and differential crosssection of the 𝜔𝜋0 photoproduction 
+              * Apply corrections to the total and differential crosssection of the &omega;&pi; photoproduction 
               
         - title: Doctoral Candidate
           company: University of Regina
@@ -100,8 +100,8 @@ sections:
           description: |2-
 
 
-              * Extracting total and differential crosssection of the 𝜔𝜋 photoproduction
-              * Developing software to: monitor gain drifts and radiation damage in Barrel Calorimeter, simulate and analyze the 𝜔𝜋 decay channel in angular moments and partial waves bases
+              * Extracting total and differential crosssection of the &omega;&pi; photoproduction
+              * Developing software to: monitor gain drifts and radiation damage in Barrel Calorimeter, simulate and analyze the &omega;&pi; decay channel in angular moments and partial waves bases
 
         - title: Teaching Assistant
           company: University of Regina
