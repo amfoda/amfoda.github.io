@@ -75,7 +75,7 @@ sections:
 
               * Building a software package for partial wave analysis at HADES experiment 
               * Mentoring Students
-              * Analyzing Hyperon spectroscopy data at the HADES experiment. 
+              * Analyzing Hyperon spectroscopy data at the HADES experiment
 
         - title: Postdoctoral Researcher
           company: University of Regina
@@ -114,7 +114,7 @@ sections:
 
 
               * Instructing students in Phys-109 (General Physics I), Phys-119 (General Physics II) labs and Phys-201 (Electricity and Magnetism)
-              Tutorials and labs.
+              Tutorials and labs
               * Marking lab reports and final exams
 
         - title: Teaching Fellow
@@ -166,7 +166,7 @@ sections:
           description: |2-
 
 
-              * Designing experiments for Phys-101 (General Physics) lab.
+              * Designing experiments for Phys-101 (General Physics) lab
               * Instructing students during lab sessions
               * Invigilating and marking assignments and exams
 
