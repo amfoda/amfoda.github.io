@@ -50,41 +50,149 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: '2021-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
 
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: California
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: Taught electronic engineering and researched semiconductor physics.
-  #   design:
-  #     columns: '2'
+        - title: Postdoctoral Researcher
+          company: GSI Helmholtz Center for Heavy Ion Research
+          company_url: 'https://www.gsi.de'
+          company_logo: 
+          location: Darmstadt, Germany
+          date_start: '2022-03-01'
+          date_end: ''
+          description: |2-
+
+
+              * Building a software package for partial wave analysis at HADES experiment 
+              * Mentoring Students
+              * Analyzing Hyperon spectroscopy data at the HADES experiment. 
+
+        - title: Postdoctoral Researcher
+          company: University of Regina
+          company_url: 'https://www.uregina.ca'
+          company_logo: 
+          location: Sk, Canada
+          date_start: '2021-02-01'
+          date_end: '2021-12-01'
+          description: |2-
+
+
+              * Mentoring Students
+              * Apply corrections to the total and differential crosssection of the 𝜔𝜋0 photoproduction 
+              
+        - title: Doctoral Candidate
+          company: University of Regina
+          company_url: 'https://www.uregina.ca'
+          company_logo: 
+          location: Sk, Canada
+          date_start: '2014-09-01'
+          date_end: '2020-12-01'
+          description: |2-
+
+
+              * Extracting total and differential crosssection of the 𝜔𝜋 photoproduction
+              * Developing software to: monitor gain drifts and radiation damage in Barrel Calorimeter, simulate and analyze the 𝜔𝜋 decay channel in angular moments and partial waves bases
+
+        - title: Teaching Assistant
+          company: University of Regina
+          company_url: 'https://www.uregina.ca'
+          company_logo: 
+          location: Sk, Canada
+          date_start: '2014-09-01'
+          date_end: '2020-12-01'
+          description: |2-
+
+
+              * Instructing students in Phys-109 (General Physics I), Phys-119 (General Physics II) labs and Phys-201 (Electricity and Magnetism)
+              Tutorials and labs.
+              * Marking lab reports and final exams
+
+        - title: Teaching Fellow
+          company: University of Regina
+          company_url: 'https://www.uregina.ca'
+          company_logo: 
+          location: Sk, Canada
+          date_start: '2020-01-01'
+          date_end: '2020-02-01'
+          description: |2-
+
+
+              * Instructing students in Phys-119 (General Physics II) labs and marking lab reports
+
+        - title: Teaching Assistant
+          company: American University in Cairo
+          company_url: 'https://www.aucegypt.edu/'
+          company_logo: 
+          location: New Cairo, Egypt
+          date_start: '2014-01-01'
+          date_end: '2014-07-01'
+          description: |2-
+
+
+              * Instructing students during tutorials Phys-211 (Foundations of Modern Physics) and Phys-506 (Advanced Quantum Mechanics)
+              * Helping students solving assignment problems
+              * Marking assignments and exams
+
+        - title: Junior Research Fellow
+          company: Dzhelepov Laboratory of Nuclear Problems, JINR
+          company_url: 'https://edu.jinr.ru/jinr/dlnp.php'
+          company_logo: 
+          location: Dubna, Russia
+          date_start: '2013-09-01'
+          date_end: '2013-12-01'
+          description: |2-
+
+
+              * Creating a simulation for an emulsion plate cosmic muon detector in GEANT4
+              * Track reconstruction on emulsion plates for the OPERA experiment
+
+        - title: Teaching Assistant
+          company: Nile University
+          company_url: 'https://nu.edu.eg/'
+          company_logo: 
+          location: Giza, Egypt
+          date_start: '2012-01-01'
+          date_end: '2013-02-01'
+          description: |2-
+
+
+              * Designing experiments for Phys-101 (General Physics) lab.
+              * Instructing students during lab sessions
+              * Invigilating and marking assignments and exams
+
+        # - title: CEO
+        #   company: GenCoin
+        #   company_url: ''
+        #   company_logo: org-gc
+        #   location: California
+        #   date_start: '2021-01-01'
+        #   date_end: ''
+        #   description: |2-
+        #       Responsibilities include:
+
+        #       * Analysing
+        #       * Modelling
+        #       * Deploying
+        # - title: Professor of Semiconductor Physics
+        #   company: University X
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: California
+        #   date_start: '2016-01-01'
+        #   date_end: '2020-12-31'
+        #   description: Taught electronic engineering and researched semiconductor physics.
+    design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
